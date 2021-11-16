@@ -18,3 +18,11 @@ Os exercícios apresentados nesse repositório foram propostos pelo professor Ne
    d) a área do quadrado que tem lado B.
    e) a área do retângulo que tem lados A e B.
    [Resposta.](https://github.com/fernandaneeri/exercicios_java/blob/master/estrutura_sequencial/src/estrutura_sequencial/exercicio_06.java)
+
+
+
+- **Estrutura Condicional**
+
+1. Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não. [Resposta.](https://github.com/fernandaneeri/exercicios_java/blob/master/estrutura_condicional/src/estrutura_condicional/exercicio_01.java)
+2. Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar. [Resposta.](https://github.com/fernandaneeri/exercicios_java/blob/master/estrutura_condicional/src/estrutura_condicional/exercicio_02.java)
+3. Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente. [Resposta.](https://github.com/fernandaneeri/exercicios_java/blob/master/estrutura_condicional/src/estrutura_condicional/exercicio_03.java)
