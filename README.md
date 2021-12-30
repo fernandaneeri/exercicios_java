@@ -1,3 +1,5 @@
+
+
 # Exercícios em Java <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 Os exercícios apresentados nesse repositório foram propostos pelo professor Nelio Alves através do curso oferecido na plataforma Udemy.
@@ -40,4 +42,5 @@ Os exercícios apresentados nesse repositório foram propostos pelo professor Ne
 
 - **Programação Orientada a Objetos**
 
-1. Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado. [Resposta.](https://github.com/fernandaneeri/exercicios_java/tree/master/exercicio_proposto_1_poo)
+1. Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. [Resposta.](https://github.com/fernandaneeri/exercicios_java/tree/master/exercicio_proposto_1_poo)
+2. Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário. [Resposta.](https://github.com/fernandaneeri/exercicios_java/tree/master/exercicio_proposto_2_poo)
