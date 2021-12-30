@@ -35,3 +35,9 @@ Os exercícios apresentados nesse repositório foram propostos pelo professor Ne
 2. Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma). [Resposta.](https://github.com/fernandaneeri/exercicios_java/blob/master/estrutura_while/src/estrutura_while/exercicio_02.java)
 3. Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva
    um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo. [Resposta.](https://github.com/fernandaneeri/exercicios_java/blob/master/estrutura_while/src/estrutura_while/exercicio_03.java)
+
+<br>
+
+- **Programação Orientada a Objetos**
+
+1. Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado. [Resposta.](https://github.com/fernandaneeri/exercicios_java/tree/master/exercicio_proposto_1_poo)
