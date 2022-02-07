@@ -60,3 +60,9 @@ Os exercícios apresentados nesse repositório foram propostos pelo professor Ne
 
 1. Fazer um programa para ler um número inteiro N e depois os dados (id, nome e salario) de
    N funcionários. Não deve haver repetição de id. Em seguida, efetuar o aumento de X por cento no salário de um determinado funcionário. Para isso, o programa deve ler um id e o valor X. Se o id informado não existir, mostrar uma mensagem e abortar a operação. Ao final, mostrar a listagem atualizada dos funcionários. Lembre-se de aplicar a técnica de encapsulamento para não permitir que o salário possa ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de aumento por porcentagem dada. [Resposta.](https://github.com/fernandaneeri/exercicios_java/tree/master/exercicio_proposto_1_lista)
+
+<br>
+
+- **Matrizes**
+
+1. Fazer um programa para ler dois números inteiros M e N, e depois ler uma matriz de M linhas por N colunas contendo números inteiros, podendo haver repetições. Em seguida, ler um número inteiro X que pertence à matriz. Para cada ocorrência de X, mostrar os valores à esquerda, acima, à direita e abaixo de X, quando houver. [Resposta.](https://github.com/fernandaneeri/exercicios_java/tree/master/exercicio_proposto_1_matriz)
