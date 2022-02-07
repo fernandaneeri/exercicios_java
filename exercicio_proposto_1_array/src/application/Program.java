@@ -25,8 +25,10 @@ public class Program {
 			System.out.print("Quarto: ");
 			int quarto = sc.nextInt();
 			vetor[quarto] = new Rent(nome, email);
+			System.out.println(" ");
 		}
-
+		
+		System.out.println("Quartos alugados: ");
 		for (int j = 0; j < vetor.length; j++) {
 			if (vetor[j] != null) {
 
