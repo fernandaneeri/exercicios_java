@@ -4,7 +4,7 @@
 
 Os exercícios apresentados nesse repositório foram propostos pelo professor Nelio Alves através do curso oferecido na plataforma Udemy.
 
-<br>
+
 
 * **Estrutura Sequencial**
 
